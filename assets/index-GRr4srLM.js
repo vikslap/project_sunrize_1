@@ -1,0 +1,1 @@
+import{j as s}from"./index-D7i-9f9-.js";function o(){return s.jsxs("div",{className:"space-y-4",children:[s.jsx("h2",{className:"text-xl font-bold",children:"Welcome to Mod 1 L 3!"}),s.jsx("p",{children:"third lesson"})]})}export{o as default};
