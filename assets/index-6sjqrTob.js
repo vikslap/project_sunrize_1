@@ -1,0 +1,1 @@
+import{j as s}from"./index-BsEoNGF3.js";function o(){return s.jsxs("div",{className:"space-y-4",children:[s.jsx("h2",{className:"text-xl font-bold",children:"Welcome to Mod 1 L 2!"}),s.jsx("p",{children:"second lesson"})]})}export{o as default};
