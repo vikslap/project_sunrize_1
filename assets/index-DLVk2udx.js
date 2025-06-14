@@ -1,0 +1,1 @@
+import{j as s}from"./index-6hKu3U6C.js";function o(){return s.jsxs("div",{className:"space-y-4",children:[s.jsx("h2",{className:"text-xl font-bold",children:"Welcome!"}),s.jsx("p",{children:"second lesson of second module"})]})}export{o as default};
